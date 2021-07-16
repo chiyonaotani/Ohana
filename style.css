@@ -6,16 +6,14 @@ body {
   background-color: #cccccc;
   color: #333333;
   font-size: 15px;
-  line-height: 2; 
-  background-image: url(.JPG);
-  
+  line-height: 2;  
+  background-image: url(beach.JPG);
   background-repeat: no-repeat;
   background-position:center center;
-　background-size: cover;
-  width: 100%;
-  height: 400px;
+　background-size: auto;
   background-attachment: fixed;
 }
+  
 
 p,
 h1,
@@ -116,6 +114,4 @@ h2 {
   font-family: 'Bitter''serif';
   text-align: center;
 }
-
-
 
