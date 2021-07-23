@@ -4,14 +4,10 @@ body {
   margin: 0;
   padding: 0;
   background-color: #cccccc;
-  color: #333333;
+  color: #ffffff;
   font-size: 15px;
   line-height: 2;  
-  background-image: url(beach.JPG);
-  background-repeat: no-repeat;
-  background-position:center center;
-　background-size: auto;
-  background-attachment: fixed;
+
 }
   
 
